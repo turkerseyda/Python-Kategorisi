@@ -29,3 +29,7 @@ print("-" * 30)
 print(100 * 100) # print ile ekrana sonuc yazdirildi
 print("sonuc yukaridaki gibidir")
  
+print("seyda yaptin galiba") # istedigimiz satiri secip 
+# sag tiklayip run selection secersek sadece o satiri secer
+
+# yanda acmak istersek de sag tiklayip run curret file kismini sececegiz
